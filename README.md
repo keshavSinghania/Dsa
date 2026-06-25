@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/keshavSinghania/Dsa/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/keshavSinghania/Dsa/tree/master/0151-reverse-words-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/keshavSinghania/Dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Math
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/keshavSinghania/Dsa/tree/master/0014-longest-common-prefix) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/keshavSinghania/Dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/keshavSinghania/Dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/keshavSinghania/Dsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
