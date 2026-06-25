@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/keshavSinghania/Dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/keshavSinghania/Dsa/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/keshavSinghania/Dsa/tree/master/0796-rotate-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/keshavSinghania/Dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/keshavSinghania/Dsa/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/keshavSinghania/Dsa/tree/master/0242-valid-anagram) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/keshavSinghania/Dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
