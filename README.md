@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/keshavSinghania/Dsa/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/keshavSinghania/Dsa/tree/master/0707-design-linked-list) |
 ## Design
 |  |
