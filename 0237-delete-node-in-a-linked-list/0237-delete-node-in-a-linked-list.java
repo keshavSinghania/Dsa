@@ -8,7 +8,7 @@
  */
 
  //given:
- //give node is not last
+ //given node is not last
  //all the values are unique
  //have to delete given node
 class Solution {
