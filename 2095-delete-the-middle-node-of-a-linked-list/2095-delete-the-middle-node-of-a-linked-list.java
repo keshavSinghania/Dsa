@@ -10,29 +10,21 @@
  */
 class Solution {
     public ListNode deleteMiddle(ListNode head) {
+        ListNode slow = head;
+        ListNode fast = head;
+        ListNode prev = null;
 
-        ListNode curr = head;
-        //first reach mid node
-        
-        //first identify n that is size of list
-        int n = 0;
-        while(curr != null){
-            n++;
-            curr = curr.next;
+        //some edge case
+        if(head == null || head.next == null){
+            return null;
+        }
+        while(fast != null && fast.next != null){
+            prev = slow;
+            slow = slow.next;
+            fast = fast.next.next;
         };
 
-        //some edge cases
-        if(n == 1 || n == 0){
-            ListNode temp = null;
-            return temp;
-        }
-        int toDeleteIndex = n/2;
-
-        ListNode toDeletePrev = head;
-        for(int i = 0; i < toDeleteIndex - 1; i++){
-            toDeletePrev = toDeletePrev.next;
-        }
-        toDeletePrev.next = toDeletePrev.next.next;
+        prev.next = prev.next.next;
         return head;
     }
 }
