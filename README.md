@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/keshavSinghania/Dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/keshavSinghania/Dsa/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/keshavSinghania/Dsa/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/keshavSinghania/Dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0328-odd-even-linked-list](https://github.com/keshavSinghania/Dsa/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/keshavSinghania/Dsa/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/keshavSinghania/Dsa/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/keshavSinghania/Dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
