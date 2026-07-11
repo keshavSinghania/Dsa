@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/keshavSinghania/Dsa/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/keshavSinghania/Dsa/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/keshavSinghania/Dsa/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/keshavSinghania/Dsa/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/keshavSinghania/Dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/keshavSinghania/Dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/keshavSinghania/Dsa/tree/master/0242-valid-anagram) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/keshavSinghania/Dsa/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/keshavSinghania/Dsa/tree/master/0022-generate-parentheses) |
 ## Enumeration
 |  |
 | ------- |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/keshavSinghania/Dsa/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/keshavSinghania/Dsa/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/keshavSinghania/Dsa/tree/master/1922-count-good-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/keshavSinghania/Dsa/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
