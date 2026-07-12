@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0014-longest-common-prefix](https://github.com/keshavSinghania/Dsa/tree/master/0014-longest-common-prefix) |
 | [0078-subsets](https://github.com/keshavSinghania/Dsa/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/keshavSinghania/Dsa/tree/master/0494-target-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/keshavSinghania/Dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/keshavSinghania/Dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/keshavSinghania/Dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/keshavSinghania/Dsa/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/keshavSinghania/Dsa/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/keshavSinghania/Dsa/tree/master/0494-target-sum) |
 ## Enumeration
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/keshavSinghania/Dsa/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/keshavSinghania/Dsa/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/keshavSinghania/Dsa/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
