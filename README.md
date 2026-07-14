@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0014-longest-common-prefix](https://github.com/keshavSinghania/Dsa/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/keshavSinghania/Dsa/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/keshavSinghania/Dsa/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/keshavSinghania/Dsa/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/keshavSinghania/Dsa/tree/master/0494-target-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/keshavSinghania/Dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/keshavSinghania/Dsa/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/keshavSinghania/Dsa/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/keshavSinghania/Dsa/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/keshavSinghania/Dsa/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/keshavSinghania/Dsa/tree/master/0494-target-sum) |
 ## Bit Manipulation
