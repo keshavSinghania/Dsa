@@ -14,6 +14,10 @@ class Solution {
     //main function 
     private void generate(int[] nums, int maxLen, int target, List<List<Integer>> ans, List<Integer> temp, int idx,
             int sum) {
+        //special optimization i.e if sum > target , on increasing further sum will only increase so stop
+        if (temp.size() > maxLen || sum > target) {
+            return;
+        }
         if (idx == 9) {
             if (temp.size() == maxLen && sum == target) {
                 ans.add(new ArrayList<>(temp));
