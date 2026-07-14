@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/keshavSinghania/Dsa/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/keshavSinghania/Dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/keshavSinghania/Dsa/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/keshavSinghania/Dsa/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/keshavSinghania/Dsa/tree/master/0494-target-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/keshavSinghania/Dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/keshavSinghania/Dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/keshavSinghania/Dsa/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/keshavSinghania/Dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/keshavSinghania/Dsa/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/keshavSinghania/Dsa/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/keshavSinghania/Dsa/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
