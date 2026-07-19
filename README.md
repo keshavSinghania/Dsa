@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/keshavSinghania/Dsa/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/keshavSinghania/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/keshavSinghania/Dsa/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/keshavSinghania/Dsa/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/keshavSinghania/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/keshavSinghania/Dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/keshavSinghania/Dsa/tree/master/0205-isomorphic-strings) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/keshavSinghania/Dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/keshavSinghania/Dsa/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/keshavSinghania/Dsa/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/keshavSinghania/Dsa/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/keshavSinghania/Dsa/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/keshavSinghania/Dsa/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/keshavSinghania/Dsa/tree/master/0494-target-sum) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/keshavSinghania/Dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/keshavSinghania/Dsa/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/keshavSinghania/Dsa/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/keshavSinghania/Dsa/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/keshavSinghania/Dsa/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/keshavSinghania/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/keshavSinghania/Dsa/tree/master/0216-combination-sum-iii) |
@@ -188,4 +191,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/keshavSinghania/Dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/keshavSinghania/Dsa/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/keshavSinghania/Dsa/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
