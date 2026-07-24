@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/keshavSinghania/Dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/keshavSinghania/Dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/keshavSinghania/Dsa/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/keshavSinghania/Dsa/tree/master/0282-expression-add-operators) |
 | [0796-rotate-string](https://github.com/keshavSinghania/Dsa/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/keshavSinghania/Dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/keshavSinghania/Dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/keshavSinghania/Dsa/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/keshavSinghania/Dsa/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/keshavSinghania/Dsa/tree/master/0050-powx-n) |
+| [0282-expression-add-operators](https://github.com/keshavSinghania/Dsa/tree/master/0282-expression-add-operators) |
 | [1903-largest-odd-number-in-string](https://github.com/keshavSinghania/Dsa/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/keshavSinghania/Dsa/tree/master/1922-count-good-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/keshavSinghania/Dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/keshavSinghania/Dsa/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/keshavSinghania/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/keshavSinghania/Dsa/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/keshavSinghania/Dsa/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/keshavSinghania/Dsa/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
