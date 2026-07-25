@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/keshavSinghania/Dsa/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/keshavSinghania/Dsa/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/keshavSinghania/Dsa/tree/master/0131-palindrome-partitioning) |
+| [0338-counting-bits](https://github.com/keshavSinghania/Dsa/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/keshavSinghania/Dsa/tree/master/0494-target-sum) |
 ## Enumeration
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/keshavSinghania/Dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/keshavSinghania/Dsa/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/keshavSinghania/Dsa/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/keshavSinghania/Dsa/tree/master/0338-counting-bits) |
 ## Number Theory
 |  |
 | ------- |
