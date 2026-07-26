@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/keshavSinghania/Dsa/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/keshavSinghania/Dsa/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/keshavSinghania/Dsa/tree/master/0282-expression-add-operators) |
+| [0628-maximum-product-of-three-numbers](https://github.com/keshavSinghania/Dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/keshavSinghania/Dsa/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/keshavSinghania/Dsa/tree/master/1922-count-good-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/keshavSinghania/Dsa/tree/master/3536-maximum-product-of-two-digits) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/keshavSinghania/Dsa/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/keshavSinghania/Dsa/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/keshavSinghania/Dsa/tree/master/0494-target-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/keshavSinghania/Dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/keshavSinghania/Dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/keshavSinghania/Dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/keshavSinghania/Dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0148-sort-list](https://github.com/keshavSinghania/Dsa/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/keshavSinghania/Dsa/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/keshavSinghania/Dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/keshavSinghania/Dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/keshavSinghania/Dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3536-maximum-product-of-two-digits](https://github.com/keshavSinghania/Dsa/tree/master/3536-maximum-product-of-two-digits) |
