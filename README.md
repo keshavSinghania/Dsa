@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/keshavSinghania/Dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/keshavSinghania/Dsa/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/keshavSinghania/Dsa/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/keshavSinghania/Dsa/tree/master/0136-single-number) |
 | [0216-combination-sum-iii](https://github.com/keshavSinghania/Dsa/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/keshavSinghania/Dsa/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keshavSinghania/Dsa/tree/master/0628-maximum-product-of-three-numbers) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0078-subsets](https://github.com/keshavSinghania/Dsa/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/keshavSinghania/Dsa/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/keshavSinghania/Dsa/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/keshavSinghania/Dsa/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/keshavSinghania/Dsa/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/keshavSinghania/Dsa/tree/master/0231-power-of-two) |
