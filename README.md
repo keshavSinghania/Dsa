@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/keshavSinghania/Dsa/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/keshavSinghania/Dsa/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/keshavSinghania/Dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/keshavSinghania/Dsa/tree/master/0225-implement-stack-using-queues) |
 | [0707-design-linked-list](https://github.com/keshavSinghania/Dsa/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/keshavSinghania/Dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/keshavSinghania/Dsa/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
