@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/keshavSinghania/Dsa/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/keshavSinghania/Dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/keshavSinghania/Dsa/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/keshavSinghania/Dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/keshavSinghania/Dsa/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/keshavSinghania/Dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/keshavSinghania/Dsa/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
@@ -258,4 +260,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/keshavSinghania/Dsa/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/keshavSinghania/Dsa/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
