@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/keshavSinghania/Dsa/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/keshavSinghania/Dsa/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/keshavSinghania/Dsa/tree/master/0282-expression-add-operators) |
+| [0486-predict-the-winner](https://github.com/keshavSinghania/Dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keshavSinghania/Dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/keshavSinghania/Dsa/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/keshavSinghania/Dsa/tree/master/1922-count-good-numbers) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0137-single-number-ii](https://github.com/keshavSinghania/Dsa/tree/master/0137-single-number-ii) |
 | [0216-combination-sum-iii](https://github.com/keshavSinghania/Dsa/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/keshavSinghania/Dsa/tree/master/0260-single-number-iii) |
+| [0486-predict-the-winner](https://github.com/keshavSinghania/Dsa/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/keshavSinghania/Dsa/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keshavSinghania/Dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/keshavSinghania/Dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/keshavSinghania/Dsa/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/keshavSinghania/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/keshavSinghania/Dsa/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/keshavSinghania/Dsa/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/keshavSinghania/Dsa/tree/master/0494-target-sum) |
 ## Enumeration
 |  |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/keshavSinghania/Dsa/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/keshavSinghania/Dsa/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/keshavSinghania/Dsa/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/keshavSinghania/Dsa/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/keshavSinghania/Dsa/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
@@ -265,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/keshavSinghania/Dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/keshavSinghania/Dsa/tree/master/0232-implement-queue-using-stacks) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/keshavSinghania/Dsa/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
