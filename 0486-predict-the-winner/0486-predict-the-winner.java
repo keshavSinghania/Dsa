@@ -1,17 +1,27 @@
 class Solution {
     public boolean predictTheWinner(int[] nums) {
-        return winner(nums, 0, nums.length - 1) >= 0;
+        return winner(nums, 0, nums.length - 1, 0, 0, true) >= 0;
     }
 
-    //function to find if player 1 is winner or not
-    private int winner(int[] nums, int start, int end) {
-        if (start == end) {
-            return nums[start];
+    private int winner(int[] nums, int left, int right,
+            int p1Score, int p2Score, boolean p1Turn) {
+
+        if (left > right) {
+            return p1Score - p2Score;
         }
 
-        int pickLeft = nums[start] - winner(nums, start + 1, end);
-        int pickRight = nums[end] - winner(nums, start, end - 1);
-
-        return Math.max(pickLeft, pickRight);
+        if (p1Turn) {
+            return Math.max(
+                    winner(nums, left + 1, right,
+                            p1Score + nums[left], p2Score, false),
+                    winner(nums, left, right - 1,
+                            p1Score + nums[right], p2Score, false));
+        } else {
+            return Math.min(
+                    winner(nums, left + 1, right,
+                            p1Score, p2Score + nums[left], true),
+                    winner(nums, left, right - 1,
+                            p1Score, p2Score + nums[right], true));
+        }
     }
 }
