@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0260-single-number-iii](https://github.com/keshavSinghania/Dsa/tree/master/0260-single-number-iii) |
 | [0486-predict-the-winner](https://github.com/keshavSinghania/Dsa/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/keshavSinghania/Dsa/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/keshavSinghania/Dsa/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keshavSinghania/Dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/keshavSinghania/Dsa/tree/master/0877-stone-game) |
 | [1331-rank-transform-of-an-array](https://github.com/keshavSinghania/Dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/keshavSinghania/Dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/keshavSinghania/Dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/keshavSinghania/Dsa/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/keshavSinghania/Dsa/tree/master/0496-next-greater-element-i) |
 | [1331-rank-transform-of-an-array](https://github.com/keshavSinghania/Dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/keshavSinghania/Dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/keshavSinghania/Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0225-implement-stack-using-queues](https://github.com/keshavSinghania/Dsa/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/keshavSinghania/Dsa/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/keshavSinghania/Dsa/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/keshavSinghania/Dsa/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/keshavSinghania/Dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
@@ -277,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0486-predict-the-winner](https://github.com/keshavSinghania/Dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/keshavSinghania/Dsa/tree/master/0877-stone-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/keshavSinghania/Dsa/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
