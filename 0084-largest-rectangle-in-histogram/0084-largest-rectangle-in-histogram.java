@@ -1,57 +1,48 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
-        int n = heights.length;
-        int[][] prevNextSmaller = new int[n][2];
+        //for every height finf enxt adn prev smaller and next smaller
+        int[] prevSmaller = new int[heights.length];
+        int[] nextSmaller = new int[heights.length];
 
         Stack<Integer> st = new Stack<>();
 
-        for (int i = 0; i < n; i++) {
-
-            // Find next smaller for popped elements
-            while (!st.isEmpty() && heights[st.peek()] > heights[i]) {
-                int idx = st.pop();
-                prevNextSmaller[idx][1] = i;
+        //function to find the next smaller
+        for(int i = heights.length - 1; i >= 0; i--){
+            int curr = heights[i];
+            while(!st.isEmpty() && heights[st.peek()] >= curr){
+                st.pop();
             }
-
-            // Find previous smaller for current element
-            if (st.isEmpty()) {
-                prevNextSmaller[i][0] = -1;
-            } else {
-                prevNextSmaller[i][0] = st.peek();
+            if(!st.isEmpty()){
+                nextSmaller[i] = st.peek();
+            }else{
+                nextSmaller[i] = heights.length;
             }
-
             st.push(i);
         }
 
-        // Remaining elements have no next smaller
-        while (!st.isEmpty()) {
-            prevNextSmaller[st.pop()][1] = n;
+        st.clear();
+        //function to find all the prevSmaller elements
+        for(int i = 0; i < heights.length; i++){
+            int curr = heights[i];
+            while(!st.isEmpty() && heights[st.peek()] >= curr){
+                st.pop();
+            }
+            if(!st.isEmpty()){
+                prevSmaller[i] = st.peek();
+            }else{
+                prevSmaller[i] = -1;
+            }
+            st.push(i);
         }
 
-        // at this point we have next smallest and prevSmallest index of every index
-        int maxArea = 0;
+        //now we have prev and next smaller of each heights
+        int area = 0;
         for(int i = 0; i < heights.length; i++){
-            int dist = prevNextSmaller[i][1] - prevNextSmaller[i][0] - 1;
-            maxArea = Math.max(maxArea, heights[i] * dist);
+            int height = heights[i];
+            int width = nextSmaller[i] - prevSmaller[i] - 1;
+
+            area = Math.max(area, height * width);
         }
-        return maxArea;
+        return area;
     }
 }
-
-// class Solution {
-//     public int largestRectangleArea(int[] heights) {
-//         int area = 0;
-//         for(int i = 0; i < heights.length; i++){
-//             int smallestHeight = heights[i];
-//             for(int j = i; j < heights.length; j++){
-//                 if(heights[j] < smallestHeight){
-//                     smallestHeight = heights[j];
-//                 }
-//                 int dist = j - i + 1;
-//                 int currentArea = dist * smallestHeight;
-//                 area = Math.max(area, currentArea);
-//             }
-//         }
-//         return area;
-//     }
-// }
