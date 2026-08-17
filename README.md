@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/keshavSinghania/Dsa/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/keshavSinghania/Dsa/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/keshavSinghania/Dsa/tree/master/0907-sum-of-subarray-minimums) |
+| [0930-binary-subarrays-with-sum](https://github.com/keshavSinghania/Dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/keshavSinghania/Dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/keshavSinghania/Dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/keshavSinghania/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0460-lfu-cache](https://github.com/keshavSinghania/Dsa/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/keshavSinghania/Dsa/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/keshavSinghania/Dsa/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/keshavSinghania/Dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/keshavSinghania/Dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/keshavSinghania/Dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/keshavSinghania/Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/keshavSinghania/Dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/keshavSinghania/Dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/keshavSinghania/Dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Trie
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/keshavSinghania/Dsa/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/keshavSinghania/Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/keshavSinghania/Dsa/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/keshavSinghania/Dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/keshavSinghania/Dsa/tree/master/1004-max-consecutive-ones-iii) |
 ## Monotonic Queue
 |  |
