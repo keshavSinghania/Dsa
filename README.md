@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/keshavSinghania/Dsa/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/keshavSinghania/Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/keshavSinghania/Dsa/tree/master/0796-rotate-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/keshavSinghania/Dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/keshavSinghania/Dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/keshavSinghania/Dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/keshavSinghania/Dsa/tree/master/1903-largest-odd-number-in-string) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0930-binary-subarrays-with-sum](https://github.com/keshavSinghania/Dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/keshavSinghania/Dsa/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/keshavSinghania/Dsa/tree/master/1331-rank-transform-of-an-array) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/keshavSinghania/Dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/keshavSinghania/Dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/keshavSinghania/Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/keshavSinghania/Dsa/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0930-binary-subarrays-with-sum](https://github.com/keshavSinghania/Dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/keshavSinghania/Dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/keshavSinghania/Dsa/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/keshavSinghania/Dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
