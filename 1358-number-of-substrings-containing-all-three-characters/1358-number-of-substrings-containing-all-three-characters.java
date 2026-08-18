@@ -1,34 +1,27 @@
 class Solution {
     public int numberOfSubstrings(String s) {
-        //total nums of substrings - total nums pp substring that doesnot contains a b c = ans;
-        int n = s.length();
-        long totalNumOfSubstring = 1L * n * (n + 1) / 2;
 
-        long totalNumNoABC = 0;
-        int countA = 0;
-        int countB = 0;
-        int countC = 0;
-        int left = 0;
-        for(int right = 0; right < s.length(); right++){
-            if(s.charAt(right) == 'a'){
-                countA++;
-            }else if(s.charAt(right) == 'b'){
-                countB++;
-            }else{
-                countC++;
+        int count = 0;
+
+        int indexA = -1;
+        int indexB = -1;
+        int indexC = -1;
+
+        for (int i = 0; i < s.length(); i++) {
+
+            if (s.charAt(i) == 'a') {
+                indexA = i;
+            } else if (s.charAt(i) == 'b') {
+                indexB = i;
+            } else {
+                indexC = i;
             }
-            while (countA > 0 && countB > 0 && countC > 0) {
-                if (s.charAt(left) == 'a') {
-                    countA--;
-                } else if (s.charAt(left) == 'b') {
-                    countB--;
-                } else {
-                    countC--;
-                }
-                left++;
+
+            if (indexA != -1 && indexB != -1 && indexC != -1) {
+                count += 1 + Math.min(indexA, Math.min(indexB, indexC));
             }
-            totalNumNoABC += right - left + 1;
         }
-        return (int) (totalNumOfSubstring - totalNumNoABC);
+
+        return count;
     }
 }
