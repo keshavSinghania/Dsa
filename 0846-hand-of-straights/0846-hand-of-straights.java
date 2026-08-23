@@ -3,49 +3,40 @@ class Solution {
         int n = hand.length;
         if(n % groupSize != 0) return false;
 
+        HashMap<Integer,Integer> freq = new HashMap<>();
         PriorityQueue<Integer> minHeap = new PriorityQueue<>();
-        for(int card : hand){
-            minHeap.offer(card);
+
+        for(int i = 0; i < n; i++){
+            if(freq.containsKey(hand[i])){
+                freq.put(hand[i], freq.get(hand[i]) + 1);
+            }else{
+                minHeap.offer(hand[i]);
+                freq.put(hand[i], 1);
+            }
         }
 
-        int currentSize = 0;
-        int currentElement = -1;
         while(!minHeap.isEmpty()){
-            if(currentSize == groupSize){
-                currentSize = 0;
-            }
-            boolean added = false;
-            ArrayList<Integer> temp = new ArrayList<>();
-            if(currentSize == 0){
-                currentElement = minHeap.poll();
-                added = true;
+            //pick the first element and find consective one , if not found return false
+            int min = minHeap.poll();
+            freq.put(min, freq.get(min) - 1);
+            if(freq.get(min) == 0){
+                freq.remove(min);
             }else{
-                while(!minHeap.isEmpty()){
-                    int heapPeak = minHeap.poll();
-                    if(heapPeak == currentElement + 1){
-                        added = true;
-                        currentElement++;
-                        break;
-                    }else{
-                        temp.add(heapPeak);
-                    }
-                }
+                minHeap.offer(min);
             }
-            if(!added){
+            for(int i = 1; i < groupSize; i++){
+                int current = min + i;
+                if(!freq.containsKey(current)){
                     return false;
                 }else{
-                    for(int ele : temp){
-                        minHeap.offer(ele);
+                    freq.put(current, freq.get(current) - 1);
+                    if(freq.get(current) == 0){
+                        freq.remove(current);
+                        minHeap.remove(current);
                     }
-                    currentSize++;
                 }
+            }
         }
         return true;
     }
 }
-
-//number of hand should be multiple of groupsize , else return false
-//now we knows for sure all the element can be rearrange in the form of group (to return true)
-//sort them , start from the smallest element ,make group check if next element is same  ignore that and then pick consective..
-//any moment it is not consecutive return false..
-//we will use min heap for that
