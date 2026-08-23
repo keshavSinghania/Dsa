@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/keshavSinghania/Dsa/tree/master/0402-remove-k-digits) |
+| [0621-task-scheduler](https://github.com/keshavSinghania/Dsa/tree/master/0621-task-scheduler) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/keshavSinghania/Dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/keshavSinghania/Dsa/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/keshavSinghania/Dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/keshavSinghania/Dsa/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/keshavSinghania/Dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/keshavSinghania/Dsa/tree/master/0503-next-greater-element-ii) |
+| [0621-task-scheduler](https://github.com/keshavSinghania/Dsa/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keshavSinghania/Dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/keshavSinghania/Dsa/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/keshavSinghania/Dsa/tree/master/0877-stone-game) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/keshavSinghania/Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/keshavSinghania/Dsa/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/keshavSinghania/Dsa/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/keshavSinghania/Dsa/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/keshavSinghania/Dsa/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/keshavSinghania/Dsa/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/keshavSinghania/Dsa/tree/master/0992-subarrays-with-k-different-integers) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/keshavSinghania/Dsa/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/keshavSinghania/Dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/keshavSinghania/Dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/keshavSinghania/Dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/keshavSinghania/Dsa/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavSinghania/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/keshavSinghania/Dsa/tree/master/0242-valid-anagram) |
+| [0621-task-scheduler](https://github.com/keshavSinghania/Dsa/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keshavSinghania/Dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/keshavSinghania/Dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/keshavSinghania/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -334,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0023-merge-k-sorted-lists](https://github.com/keshavSinghania/Dsa/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavSinghania/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/keshavSinghania/Dsa/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/keshavSinghania/Dsa/tree/master/0621-task-scheduler) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/keshavSinghania/Dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
