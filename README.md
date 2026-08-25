@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/keshavSinghania/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/keshavSinghania/Dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/keshavSinghania/Dsa/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/keshavSinghania/Dsa/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/keshavSinghania/Dsa/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/keshavSinghania/Dsa/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/keshavSinghania/Dsa/tree/master/0131-palindrome-partitioning) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/keshavSinghania/Dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/keshavSinghania/Dsa/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/keshavSinghania/Dsa/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/keshavSinghania/Dsa/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/keshavSinghania/Dsa/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/keshavSinghania/Dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/keshavSinghania/Dsa/tree/master/0079-word-search) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/keshavSinghania/Dsa/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/keshavSinghania/Dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/keshavSinghania/Dsa/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/keshavSinghania/Dsa/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/keshavSinghania/Dsa/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/keshavSinghania/Dsa/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/keshavSinghania/Dsa/tree/master/0141-linked-list-cycle) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/keshavSinghania/Dsa/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/keshavSinghania/Dsa/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavSinghania/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/keshavSinghania/Dsa/tree/master/0242-valid-anagram) |
