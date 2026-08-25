@@ -12,7 +12,7 @@ class MedianFinder {
         }
 
         double leftPeak = leftMaxHeap.peek();
-        if(num1 < leftPeak){
+        if(num1 <= leftPeak){
             leftMaxHeap.offer(num1);
         }else{
             rightMinHeap.offer(num1);
