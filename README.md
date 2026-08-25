@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0216-combination-sum-iii](https://github.com/keshavSinghania/Dsa/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/keshavSinghania/Dsa/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/keshavSinghania/Dsa/tree/master/0260-single-number-iii) |
+| [0347-top-k-frequent-elements](https://github.com/keshavSinghania/Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/keshavSinghania/Dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0486-predict-the-winner](https://github.com/keshavSinghania/Dsa/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/keshavSinghania/Dsa/tree/master/0494-target-sum) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/keshavSinghania/Dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/keshavSinghania/Dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/keshavSinghania/Dsa/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/keshavSinghania/Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/keshavSinghania/Dsa/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/keshavSinghania/Dsa/tree/master/0424-longest-repeating-character-replacement) |
 | [0460-lfu-cache](https://github.com/keshavSinghania/Dsa/tree/master/0460-lfu-cache) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0190-reverse-bits](https://github.com/keshavSinghania/Dsa/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/keshavSinghania/Dsa/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavSinghania/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/keshavSinghania/Dsa/tree/master/0347-top-k-frequent-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/keshavSinghania/Dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/keshavSinghania/Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/keshavSinghania/Dsa/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/keshavSinghania/Dsa/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/keshavSinghania/Dsa/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -200,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavSinghania/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/keshavSinghania/Dsa/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/keshavSinghania/Dsa/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/keshavSinghania/Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/keshavSinghania/Dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/keshavSinghania/Dsa/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keshavSinghania/Dsa/tree/master/0628-maximum-product-of-three-numbers) |
@@ -354,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavSinghania/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/keshavSinghania/Dsa/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/keshavSinghania/Dsa/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/keshavSinghania/Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/keshavSinghania/Dsa/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/keshavSinghania/Dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/keshavSinghania/Dsa/tree/master/0621-task-scheduler) |
@@ -433,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavSinghania/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/keshavSinghania/Dsa/tree/master/0347-top-k-frequent-elements) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -449,4 +456,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/keshavSinghania/Dsa/tree/master/0703-kth-largest-element-in-a-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/keshavSinghania/Dsa/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
