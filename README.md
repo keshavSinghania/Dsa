@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/keshavSinghania/Dsa/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/keshavSinghania/Dsa/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/keshavSinghania/Dsa/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/keshavSinghania/Dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/keshavSinghania/Dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0486-predict-the-winner](https://github.com/keshavSinghania/Dsa/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/keshavSinghania/Dsa/tree/master/0494-target-sum) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/keshavSinghania/Dsa/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/keshavSinghania/Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/keshavSinghania/Dsa/tree/master/0355-design-twitter) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/keshavSinghania/Dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/keshavSinghania/Dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/keshavSinghania/Dsa/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/keshavSinghania/Dsa/tree/master/0703-kth-largest-element-in-a-stream) |
