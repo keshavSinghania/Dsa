@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/keshavSinghania/Dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/keshavSinghania/Dsa/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/keshavSinghania/Dsa/tree/master/0295-find-median-from-data-stream) |
+| [0455-assign-cookies](https://github.com/keshavSinghania/Dsa/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/keshavSinghania/Dsa/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/keshavSinghania/Dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## String
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/keshavSinghania/Dsa/tree/master/0402-remove-k-digits) |
+| [0455-assign-cookies](https://github.com/keshavSinghania/Dsa/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/keshavSinghania/Dsa/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/keshavSinghania/Dsa/tree/master/0846-hand-of-straights) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/keshavSinghania/Dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/keshavSinghania/Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/keshavSinghania/Dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/keshavSinghania/Dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0455-assign-cookies](https://github.com/keshavSinghania/Dsa/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/keshavSinghania/Dsa/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/keshavSinghania/Dsa/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/keshavSinghania/Dsa/tree/master/0496-next-greater-element-i) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/keshavSinghania/Dsa/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/keshavSinghania/Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/keshavSinghania/Dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0455-assign-cookies](https://github.com/keshavSinghania/Dsa/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/keshavSinghania/Dsa/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/keshavSinghania/Dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/keshavSinghania/Dsa/tree/master/0846-hand-of-straights) |
@@ -480,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/keshavSinghania/Dsa/tree/master/0973-k-closest-points-to-origin) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/keshavSinghania/Dsa/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
