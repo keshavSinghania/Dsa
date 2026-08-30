@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/keshavSinghania/Dsa/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/keshavSinghania/Dsa/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/keshavSinghania/Dsa/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/keshavSinghania/Dsa/tree/master/0621-task-scheduler) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/keshavSinghania/Dsa/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/keshavSinghania/Dsa/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/keshavSinghania/Dsa/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/keshavSinghania/Dsa/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/keshavSinghania/Dsa/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/keshavSinghania/Dsa/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/keshavSinghania/Dsa/tree/master/0084-largest-rectangle-in-histogram) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/keshavSinghania/Dsa/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/keshavSinghania/Dsa/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/keshavSinghania/Dsa/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/keshavSinghania/Dsa/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/keshavSinghania/Dsa/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/keshavSinghania/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/keshavSinghania/Dsa/tree/master/0338-counting-bits) |
