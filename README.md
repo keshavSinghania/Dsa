@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0460-lfu-cache](https://github.com/keshavSinghania/Dsa/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/keshavSinghania/Dsa/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/keshavSinghania/Dsa/tree/master/0876-middle-of-the-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/keshavSinghania/Dsa/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/keshavSinghania/Dsa/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
