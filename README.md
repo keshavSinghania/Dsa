@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/keshavSinghania/Dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/keshavSinghania/Dsa/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/keshavSinghania/Dsa/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/keshavSinghania/Dsa/tree/master/0455-assign-cookies) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/keshavSinghania/Dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/keshavSinghania/Dsa/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/keshavSinghania/Dsa/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/keshavSinghania/Dsa/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/keshavSinghania/Dsa/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/keshavSinghania/Dsa/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/keshavSinghania/Dsa/tree/master/0055-jump-game) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0005-longest-palindromic-substring](https://github.com/keshavSinghania/Dsa/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/keshavSinghania/Dsa/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/keshavSinghania/Dsa/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/keshavSinghania/Dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/keshavSinghania/Dsa/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/keshavSinghania/Dsa/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/keshavSinghania/Dsa/tree/master/0131-palindrome-partitioning) |
