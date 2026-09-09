@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0045-jump-game-ii](https://github.com/keshavSinghania/Dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/keshavSinghania/Dsa/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/keshavSinghania/Dsa/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/keshavSinghania/Dsa/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/keshavSinghania/Dsa/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/keshavSinghania/Dsa/tree/master/0621-task-scheduler) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0084-largest-rectangle-in-histogram](https://github.com/keshavSinghania/Dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/keshavSinghania/Dsa/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/keshavSinghania/Dsa/tree/master/0090-subsets-ii) |
+| [0135-candy](https://github.com/keshavSinghania/Dsa/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/keshavSinghania/Dsa/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/keshavSinghania/Dsa/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/keshavSinghania/Dsa/tree/master/0215-kth-largest-element-in-an-array) |
