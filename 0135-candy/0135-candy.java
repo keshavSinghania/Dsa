@@ -1,30 +1,34 @@
 class Solution {
     public int candy(int[] ratings) {
-        int[] left = new int[ratings.length];
-        int[] right = new int[ratings.length];
+        //mountain approach
+        int n = ratings.length;
+        int i = 1;
+        int sum = 1;
+        while(i < n){
+            //if same just add 1
+            if(ratings[i] == ratings[i - 1]){
+                sum += 1;
+                i++;
+                continue;
+            }
 
-        left[0] = 1;
-        for(int i = 1; i < ratings.length; i++){
-            if(ratings[i-1] >= ratings[i]){
-                left[i] = 1;
-            }else{
-                left[i] = left[i - 1] + 1;
+            int peak = 1;
+            while(i < n && ratings[i - 1] < ratings[i]){
+                peak++;
+                i++;
+                sum += peak;
+            }
+            int slope = 0;
+            while(i < n && ratings[i] < ratings[i- 1]){
+                slope++;
+                i++;
+                sum += slope;
+            }
+            slope++;
+            if(slope > peak){
+                sum += slope - peak;
             }
         }
-        right[ratings.length - 1] = 1;
-        for(int i = ratings.length - 2; i >= 0; i--){
-            if(ratings[i] <= ratings[i + 1]){
-                right[i] = 1;
-            }else{
-                right[i] = right[i + 1] + 1;
-            }
-        }
-
-        //finding max of both
-        int totalCandy = 0;
-        for(int i = 0; i < ratings.length; i++){
-            totalCandy += Math.max(left[i],right[i]);
-        }
-        return totalCandy;
+        return sum;
     }
 }
