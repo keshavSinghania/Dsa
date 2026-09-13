@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/keshavSinghania/Dsa/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/keshavSinghania/Dsa/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/keshavSinghania/Dsa/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/keshavSinghania/Dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/keshavSinghania/Dsa/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/keshavSinghania/Dsa/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/keshavSinghania/Dsa/tree/master/0678-valid-parenthesis-string) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/keshavSinghania/Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/keshavSinghania/Dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/keshavSinghania/Dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/keshavSinghania/Dsa/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/keshavSinghania/Dsa/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/keshavSinghania/Dsa/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/keshavSinghania/Dsa/tree/master/0494-target-sum) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/keshavSinghania/Dsa/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/keshavSinghania/Dsa/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/keshavSinghania/Dsa/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/keshavSinghania/Dsa/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/keshavSinghania/Dsa/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/keshavSinghania/Dsa/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/keshavSinghania/Dsa/tree/master/0621-task-scheduler) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/keshavSinghania/Dsa/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/keshavSinghania/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/keshavSinghania/Dsa/tree/master/0338-counting-bits) |
+| [0435-non-overlapping-intervals](https://github.com/keshavSinghania/Dsa/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/keshavSinghania/Dsa/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/keshavSinghania/Dsa/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/keshavSinghania/Dsa/tree/master/0678-valid-parenthesis-string) |
