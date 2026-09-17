@@ -14,23 +14,13 @@
  * }
  */
 class Solution {
-    int ans = 0;
     public int maxDepth(TreeNode root) {
-        int tempDepth  = 0;
-        findDepth(tempDepth, root);
-
-        return ans;
-    }
-
-    public void findDepth(int tempDepth, TreeNode root){
         if(root == null){
-            ans = Math.max(ans, tempDepth);
-            tempDepth = 0;
-            return;
+            return 0;
         }
-        //first go left
-        findDepth(tempDepth + 1, root.left);
-        findDepth(tempDepth + 1, root.right);
-    
+        int leftDepth = maxDepth(root.left);
+        int rightDepth = maxDepth(root.right);
+
+        return 1 + Math.max(leftDepth, rightDepth);
     }
 }
