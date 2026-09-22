@@ -15,23 +15,33 @@
  */
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> ans = new ArrayList<>();
-        Stack<TreeNode> st = new Stack<>();
-        TreeNode curr = root;
+        List<Integer> list = new ArrayList<>();
+        Stack<TreeNode> st1 = new Stack<>();
+        Stack<Boolean> st2  = new Stack<>();
 
-        while(true){
-            if(curr != null){
-                st.push(curr);
-                curr = curr.left;
+        if(root == null) return list;
+        st1.push(root);
+        st2.push(false);
+
+        while(!st1.isEmpty()){
+            TreeNode curr = st1.pop();
+            boolean visited = st2.pop();
+
+            if(visited){
+                list.add(curr.val);
             }else{
-                if(st.isEmpty()){
-                    break;
+                if(curr.right != null){
+                    st1.push(curr.right);
+                    st2.push(false);
                 }
-                curr = st.pop();
-                ans.add(curr.val);
-                curr = curr.right;
+                st1.push(curr);
+                st2.push(true);
+                if(curr.left != null){
+                    st1.push(curr.left);
+                    st2.push(false);
+                }
             }
         }
-        return ans;
+        return list;
     }
 }
