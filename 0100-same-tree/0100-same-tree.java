@@ -15,27 +15,10 @@
  */
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
-        Queue<TreeNode> qu = new LinkedList<>();
         if(p == null && q == null) return true;
-
-        qu.add(p);
-        qu.add(q);
-
-        while(!qu.isEmpty()){
-            TreeNode first = qu.poll();
-            TreeNode second = qu.poll();
-            //if both are null no need to push just skip this traversal using continue
-            if(first == null && second == null){
-                continue;
-            }else if(first == null || second == null || first.val != second.val){
-                return false;
-            }
-
-            qu.add(first.left);
-            qu.add(second.left);
-            qu.add(first.right);
-            qu.add(second.right);
-        }
-        return true;
+        if(p == null && q!= null) return false;
+        if(p != null && q == null) return false;
+        if(p.val != q.val) return false;
+        return (isSameTree(p.left, q.left) && isSameTree(p.right , q.right));
     }
 }
