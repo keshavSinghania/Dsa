@@ -17,30 +17,18 @@ class Solution {
     public int ans = Integer.MIN_VALUE;
     public int maxPathSum(TreeNode root) {
         ans = root.val;
-        traverseTree(root);
+        findMax(root);
         return ans;
     }
     //function to traverse the tree
-    public void traverseTree(TreeNode root){
-        if(root == null){
-            return;
-        }
-        int l = findMax(root.left);
-        int r = findMax(root.right);
-        ans = Math.max(ans, l + r + root.val);
-
-        traverseTree(root.left);
-        traverseTree(root.right);
-    }
-    //function to find max path
     public int findMax(TreeNode root){
         if(root == null){
             return 0;
         }
+        int l = Math.max(0,findMax(root.left));
+        int r = Math.max(0,findMax(root.right));
+        ans = Math.max(ans, l + r + root.val);
 
-        int left = findMax(root.left);
-        int right = findMax(root.right);
-
-        return Math.max(0, Math.max(left, right) + root.val);
+        return root.val + Math.max(l, r);
     }
 }
