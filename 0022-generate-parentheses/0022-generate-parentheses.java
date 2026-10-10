@@ -1,32 +1,46 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        List<String> ans =  new ArrayList<>();
-        StringBuilder temp = new StringBuilder();
-
-        //to make it stop inside recursion
-        int openCount = 0;
-        int closeCount = 0;
-        find(ans, temp, openCount, closeCount, n);
+        StringBuilder sb = new StringBuilder();
+        List<String> ans = new ArrayList<>();
+        findAns(n, ans, sb);
         return ans;
     }
-    private void find(List<String> ans, StringBuilder temp, int openCount, int closeCount, int n){
-            //when the count of both is equal to n
-            if(openCount == n && closeCount == n){
-                ans.add(temp.toString());
-                return;
-            }
+    //FUNCTION
+    public void findAns(int n, List<String> ans, StringBuilder sb){
+        //base case
+        if(sb.length() == 2 * n){
+            String temp = sb.toString();
+            ans.add(temp);
+            return;
+        }
 
-            //add open paranthesis
-            if(openCount != n){
-                temp.append('(');
-                find(ans, temp, openCount + 1, closeCount, n);
-            //remove open paran and then pass for close paran
-                temp.deleteCharAt(temp.length() - 1);
-            }
-            if(openCount > closeCount){
-                temp.append(')');
-                find(ans, temp, openCount, closeCount + 1, n);
-                temp.deleteCharAt(temp.length() - 1);
+        sb.append('(');
+        if(isValid(n, sb)){
+            findAns(n, ans, sb);
+        }
+        sb.deleteCharAt(sb.length() - 1);
+
+        sb.append(')');
+        if(isValid(n,sb)){
+            findAns(n, ans, sb);
+        }
+        sb.deleteCharAt(sb.length() - 1);
+    }
+    //FUNCTION TO CHECK VALID OR NOT
+    public boolean isValid(int n, StringBuilder sb){
+        int openCount = 0;
+        int count = 0;
+        for(int i = 0; i < sb.length(); i++){
+            if(sb.charAt(i) == '('){
+                count++;
+                openCount++;
+            }else{
+                count--;
             }
         }
+        if(count >= 0 && openCount <= n){
+            return true;
+        }
+        return false;
+    }
 }
