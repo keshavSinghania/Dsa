@@ -10,7 +10,7 @@ class Solution {
     //FUNCTION
     public void findAns(int n, List<String> ans, StringBuilder sb, int openCount, int count){
         //base case
-        if(sb.length() == 2 * n){
+        if(openCount == n && count ==0){
             String temp = sb.toString();
             ans.add(temp);
             return;
