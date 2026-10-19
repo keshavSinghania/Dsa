@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/keshavSinghania/Dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/keshavSinghania/Dsa/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/keshavSinghania/Dsa/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/keshavSinghania/Dsa/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/keshavSinghania/Dsa/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/keshavSinghania/Dsa/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/keshavSinghania/Dsa/tree/master/0424-longest-repeating-character-replacement) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/keshavSinghania/Dsa/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/keshavSinghania/Dsa/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/keshavSinghania/Dsa/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/keshavSinghania/Dsa/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/keshavSinghania/Dsa/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/keshavSinghania/Dsa/tree/master/0494-target-sum) |
 ## Bit Manipulation
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/keshavSinghania/Dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/keshavSinghania/Dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/keshavSinghania/Dsa/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/keshavSinghania/Dsa/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/keshavSinghania/Dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/keshavSinghania/Dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/keshavSinghania/Dsa/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/keshavSinghania/Dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/keshavSinghania/Dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/keshavSinghania/Dsa/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/keshavSinghania/Dsa/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/keshavSinghania/Dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/keshavSinghania/Dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/keshavSinghania/Dsa/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -546,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/keshavSinghania/Dsa/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/keshavSinghania/Dsa/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/keshavSinghania/Dsa/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/keshavSinghania/Dsa/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/keshavSinghania/Dsa/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/keshavSinghania/Dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/keshavSinghania/Dsa/tree/master/0703-kth-largest-element-in-a-stream) |
