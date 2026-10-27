@@ -9,7 +9,8 @@
  */
 class Solution {
     public List<Integer> distanceK(TreeNode root, TreeNode target, int k) {
-
+        List<Integer> ans = new ArrayList<>();
+        if(root == null) return ans;
         //Task 1: save the parent node of all the nodes with parent(using map for this)
         Map<TreeNode, TreeNode> mapWithParent = new HashMap<>();
         Queue<TreeNode> q = new LinkedList<>();
@@ -27,8 +28,6 @@ class Solution {
         }
         // End of task 1, we have all the nodes with thier perent nodes marked
 
-
-        List<Integer> ans = new ArrayList<>();
         Set<TreeNode> visited = new HashSet<>();
         findDistanceK(k, mapWithParent, visited, target, 0, ans);
         return ans;
@@ -39,7 +38,7 @@ class Solution {
         //first mark current node as visited
         visited.add(currNode);
         //check if distance is k then add all the current node into the ans and return
-        if(dist >= k){
+        if(dist == k){
             if(currNode != null){{
                 ans.add(currNode.val);
                 return;
